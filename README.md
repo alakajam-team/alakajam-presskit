@@ -1,6 +1,6 @@
 ## Alakajam! press kit
 
-This project gathers reusable assets that can be used in media supports related to Alakajam. If you reuse images, do not link directly to the Github or Alakajam URLs, as these files may be changed or moved at any time.
+This project gathers reusable assets for any media supports related to Alakajam. If you reuse images, do not link directly to the Github or Alakajam URLs, as these files may be changed or moved at any time.
 
 ### Art authors
 
