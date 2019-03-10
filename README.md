@@ -4,9 +4,9 @@ This project gathers reusable assets that can be used in media supports related 
 
 ### Art authors
 
-* @Aurel300 (Twitter: [@aureldev](https://twitter.com/aureldev))
-* @DaFluffyPotato (Twitter: [@DaFluffyPotato](https://twitter.com/DaFluffyPotato))
-* @mkalam-alami (Twitter: [@mkalamalami](https://twitter.com/mkalamalami))
+* [Aurel300](https://github.com/Aurel300) (Twitter: [@aureldev](https://twitter.com/aureldev))
+* [DaFluffyPotato](https://github.com/DaFluffyPotato) (Twitter: [@DaFluffyPotato](https://twitter.com/DaFluffyPotato))
+* [mkalam-alami](https://github.com/mkalam-alami) (Twitter: [@mkalamalami](https://twitter.com/mkalamalami))
 
 ### Third party assets
 
