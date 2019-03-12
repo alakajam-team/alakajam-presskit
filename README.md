@@ -2,11 +2,14 @@
 
 This project gathers reusable assets for any media supports related to Alakajam. If you reuse images, do not link directly to the Github or Alakajam URLs, as these files may be changed or moved at any time.
 
+## [Download as a ZIP](https://github.com/alakajam-team/alakajam-presskit/archive/master.zip)
+
 ### Art authors
 
-* [Aurel300](https://github.com/Aurel300) (Twitter: [@aureldev](https://twitter.com/aureldev))
-* [DaFluffyPotato](https://github.com/DaFluffyPotato) (Twitter: [@DaFluffyPotato](https://twitter.com/DaFluffyPotato))
-* [mkalam-alami](https://github.com/mkalam-alami) (Twitter: [@mkalamalami](https://twitter.com/mkalamalami))
+* **[Aurel300](https://github.com/Aurel300)** (Twitter: [@aureldev](https://twitter.com/aureldev))
+* **[DaFluffyPotato](https://github.com/DaFluffyPotato)** (Twitter: [@DaFluffyPotato](https://twitter.com/DaFluffyPotato))
+* **[mkalam-alami](https://github.com/mkalam-alami)** (Twitter: [@mkalamalami](https://twitter.com/mkalamalami))
+* **xXBloodyOrange** (Twitter: [@xxBloodyOrange](https://twitter.com/xXbloodyorange))
 
 ### Third party assets
 
